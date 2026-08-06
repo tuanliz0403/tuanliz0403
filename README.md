@@ -28,7 +28,7 @@
 
 <div align="left">
   <a href = "https://www.instagram.com/orcaprox/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge](https://www.instagram.com/orcatun2006/)" height="35" alt="instagram logo"  />
   </a>
 
   <a href = "mailto:tuanliz0403@gmail.com">
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
-  <a href = "https://www.facebook.com/orcaprox/">
+  <a href = "[https://www.facebook.com/orcaprox/](https://www.facebook.com/orcaprox/)">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
