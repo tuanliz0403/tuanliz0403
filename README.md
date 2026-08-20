@@ -1,4 +1,4 @@
-<h2 align="left">Hi 🙋‍♂️! My name is Minh Tuan Pham and I'm a Computing student 🧑‍💻, from The Australian National University</h2>
+<h2 align="left">Hi 🙋‍♂️! My name is Minh Tuan Pham and I'm doing my CS degree @ The Australian National University</h2>
 
 ###
 
